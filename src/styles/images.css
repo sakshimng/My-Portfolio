@@ -1,19 +1,19 @@
 
 /* Add your profile image here */
 .Photo{
-    background-image: url('https://images.pexels.com/photos/3799821/pexels-photo-3799821.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: url('https://i.pinimg.com/originals/43/9f/9e/439f9e5f1eb7167df09b0eec9b15ecf0.gif');
 }
 /* Projects Photo */
 .project1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+one');
+    background-image: url('https://img.freepik.com/free-vector/company-providing-management-training-office-space-business-incubator-business-training-programs-shared-administrative-service-concept-bright-vibrant-violet-isolated-illustration_335657-867.jpg?w=2000&t=st=1683760770~exp=1683761370~hmac=a696299495c1608755a8d3c2c11d612722f4914b45156785813386126b896a2c');
     cursor: none;    
 }
 .project2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
+    background-image: url('https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?w=1380&t=st=1683761123~exp=1683761723~hmac=8cf2513111c2063a2a26d5fe5c529ec6ade8fa4d9b7b000d16579a6a2256724c');
     cursor: none;
 }
 .project3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
+    background-image: url('https://img.freepik.com/premium-vector/business-lady-working-office_652292-34.jpg?w=1380');
     cursor: none;
 }
 .project4{
