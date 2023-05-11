@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Human",
+  name: "Sakshi",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "I'm a code wizard turned product mastermind, bridging the gap between tech jargon and business goals with a sprinkle of whimsy. Ready to unleash my superpowers to create amazing user experiences and drive product success! ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -52,102 +52,83 @@ const skillsBar = [
     faClass: "fab fa-node",
   },
   {
-    name: "Python",
+    name: "Agile",
     // svg: '',
     faClass: "fab fa-python",
   },
   {
-    name: "Java",
+    name: "Scrum",
     // svg: '',
     faClass: "fab fa-java",
   },
   {
-    name: "PHP",
+    name: "Wireframes",
     // svg: '',
     faClass: "fab fa-php",
   },
   {
-    name: "Database",
+    name: "Product Management",
     // svg: '',
     faClass: "fas fa-database",
   },
   {
-    name: "AWS",
+    name: "User Testing",
     // svg: '',
     faClass: "fab fa-aws",
   },
+  {
+    name: "Market Research"
+  }
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
 // You can omit freely anything if you dont have it
 // To Add a Project, copy any one below and paste it after the last comma and increment the id's project number
-const section3Title = "Past Projects";
+const section3Title = "Work Experience";
 const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Rise People",
+    skills: ["HTML, CSS, JavaScript, UX/UI design, responsive design,User Testing, cross-browser compatibility, performance optimization, Agile methodologies, product management"],
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Zealsight",
+    skills: ["HTML, CSS, JS, Product Design, Angular, React, Product Management, Agile, Scrum, UML, Wireframes"],
+    url: "https://zealsight.com/",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #project4
-    id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #project5
-    id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #project6
-    id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "HRBx",
+    skills: ["Microsoft Excel, Tableau, Power BI, SQL, Jira, Trello, Lucidchart, Google Analytics "],
+    
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
-const section4Title = "Miscellaneous";
+const section4Title = "";
 const miscellaneous = [
-  {
-    // Add image in './styles/images.css' in #misc1
-    id: "misc1",
-    name: "Miscellaneous 1",
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #misc2
-    id: "misc2",
-    name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #misc3
-    id: "misc3",
-    name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
-  },
+  // {
+  //   // Add image in './styles/images.css' in #misc1
+  //   id: "misc1",
+  //   name: "Miscellaneous 1",
+  //   url: "https://github.com/kaustubhai",
+  // },
+  // {
+  //   // Add image in './styles/images.css' in #misc2
+  //   id: "misc2",
+  //   name: "Miscellaneous 2",
+  //   url: "https://github.com/kaustubhai",
+  // },
+  // {
+  //   // Add image in './styles/images.css' in #misc3
+  //   id: "misc3",
+  //   name: "Miscellaneous 3",
+  //   url: "https://github.com/kaustubhai",
+  // },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
 // To get your own jotform link, go to https://formspree.io/
@@ -155,9 +136,9 @@ const miscellaneous = [
 const section5Title = "Get in Touch";
 const contact = {
   pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
-  contactUrl: "",
+    "I'm always open to discussing new projects and opportunities! Feel free to contact me via email or LinkedIn.",
+  email: "sakshimangwani08@gmail.com",
+  linkedin: "https://www.linkedin.com/in/sakshi-m-7a2a22242/",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
